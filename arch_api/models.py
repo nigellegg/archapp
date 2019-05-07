@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Model for file meta data.  
+
 from django.db import models
 
 class file_data(models.Model):

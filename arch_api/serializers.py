@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# Data serializers for API
+
 from arch_api.models import file_data
 from rest_framework import serializers
 
