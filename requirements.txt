@@ -3,7 +3,7 @@ anyjson==0.3.3
 billiard==3.6.0.0
 celery==4.3.0
 Django>=2.2.2
-djangorestframework==3.9.3
+djangorestframework==3.11.2
 kombu==4.5.0
 pkg-resources==0.0.0
 psycopg2==2.8.2
